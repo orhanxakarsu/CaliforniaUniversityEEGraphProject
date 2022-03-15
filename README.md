@@ -1,7 +1,8 @@
 EE 134: Graph Theory in Engineering
-Project - Part 2
-Due: Dec 2 at 11:59pm
+
 1 Project Description
+
+
 Congratulations! your project is selected by the company X to support sensor deployment in a
 jungle with the purpose of monitoring wildlife. However, apart from providing your suggested
 optimal sensor placement, the company asks some additional help from you. In particular, X plans
@@ -13,6 +14,8 @@ drone will start from a drone station at the center of the map (where the receiv
 and needs to return to the same point. Moreover, because it is a large drone, as it flies above a
 square x, it can simultaneously drop sensors not only on the square x but also on all neighboring
 squares inside a 5 ˆ 5 square with center x.
+
+
 Scenario 2. The company will use multiple drones, that are smaller and need to obey the following
 restrictions:
 • Each drone can carry up to 300 sensors at a time.
